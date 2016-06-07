@@ -1,0 +1,79 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "barcode"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "barcode"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "barcode"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "barcode"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "barcode"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "barcode"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "barcode"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "barcode"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "barcode"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "barcode"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "barcode"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "barcode"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "barcode"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "barcode"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "barcode"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "barcode"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "barcode"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "barcode"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "barcode"
+        },
+        "phonegap-plugin-barcodescanner": {
+            "PACKAGE_NAME": "barcode"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "barcode"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "barcode"
+        }
+    }
+}
